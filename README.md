@@ -1,2 +1,0 @@
-# AMAZON-CLONE
-1st HTML CSS project
